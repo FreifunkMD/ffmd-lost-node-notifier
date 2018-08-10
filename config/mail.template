@@ -1,0 +1,9 @@
+Hallo Freifunk-Nutzer,
+
+wir haben festgestellt, dass dein Knoten mit dem Name "{{node.nodeinfo.hostname}}" offline ist.
+
+Überprüfe doch bitte, ob dein Knoten weiterhin mit dem Strom verbunden ist und der Uplink oder das Mesh funktioniert.
+Solltest du Fragen haben, dann wende dich einfach an ffmd-dev@lists.netz39.de.
+
+Beste Grüße,
+    Freifunk Magdeburg

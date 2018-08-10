@@ -1,0 +1,24 @@
+{
+  "name": "freifunk-md-lost-node-notifier",
+  "version": "0.0.1",
+  "description": "Notifies node owner, if their node is missing for a certain time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "freifunk",
+    "md",
+    "node",
+    "notifier",
+    "mail"
+  ],
+  "author": "Johann Wagner",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "logplease": "^1.2.15",
+    "moment": "^2.22.2",
+    "validator": "^10.5.0"
+  }
+}
